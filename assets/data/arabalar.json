@@ -1,0 +1,167 @@
+[
+  {
+    "araba_adi": "Mercedes",
+    "uretim_yeri": "Almanya",
+    "yil": "1999",
+    "model": [
+               {"model_adi": "e serisi",
+               "fiyat": 100000,
+               "benzinli": true
+              },
+              {"model_adi": "c serisi",
+               "fiyat": 100000,
+               "benzinli": true
+              }
+             ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  },
+  {
+    "araba_adi": "Honda",
+    "uretim_yeri": "Japonya",
+    "yil": "1949",
+    "model": [
+      {"model_adi": "Civic",
+        "fiyat": 10000,
+        "benzinli": true
+      },
+      {"model_adi": "Jazz",
+        "fiyat": 20000,
+        "benzinli": true
+      }
+    ]
+  }
+]
